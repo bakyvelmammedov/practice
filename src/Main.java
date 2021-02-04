@@ -17,5 +17,10 @@ class Main {
             i++;
         }
         System.out.println(Arrays.toString(newWords));
+
+        System.out.println("commit");
+
     }
+
+
 }
