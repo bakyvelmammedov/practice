@@ -19,6 +19,7 @@ class Main {
         System.out.println(Arrays.toString(newWords));
 
         System.out.println("commit");
+        //commit
 
     }
 
